@@ -1,0 +1,29 @@
+.div {
+    background-color: whitesmoke;
+}
+
+.in {
+    border-radius: 6px;
+    background-color: lightgray;
+    padding: 3px;
+    margin: 1px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.boton {
+    background-color: whitesmoke;
+    margin: 3px;
+    box-shadow: 1px;
+    font-weight: bold;
+    border-color: green;
+    color: green;
+    border-radius: 6px;
+    max-width: 150px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.botonAgregar:hover {
+    background-color: #ff8c1a;
+    border-color: #ff8c1a;
+    color: white;
+}

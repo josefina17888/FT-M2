@@ -1,0 +1,44 @@
+.carta {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    max-width: 300px;
+    max-height: 300px;
+    background-color: 	#282828;
+    justify-content:space-around; 
+}
+
+.nombre {
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.boton {
+    background-color: red;
+    width: 25px;
+    border-radius: 10px;
+    margin: 5px;
+    color: white;
+    border-color: whitesmoke;
+    align-self: flex-start;
+    float: right;
+}
+
+.middle {
+    display: flex;
+    flex-direction: row;
+    max-width: fit-content;
+    max-width: 200px;
+    
+}
+
+.p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+
+.temp {
+    display: flex;
+    flex-direction: column;
+}
